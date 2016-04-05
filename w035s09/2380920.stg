@@ -1,0 +1,3 @@
+OBJECT_SHARED Models/Airport/ndb.ac -34.952 -8.0385 10.83 180
+OBJECT_SHARED Models/Airport/ils.xml -34.92595 -8.117178 10.23 198.4
+OBJECT_SHARED Models/Airport/marker.ac -34.952 -8.0385 10.83 180
