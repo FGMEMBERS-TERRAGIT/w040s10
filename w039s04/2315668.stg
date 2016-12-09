@@ -4,4 +4,6 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.4937786 -3.708091 -0.82 255.1
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.4884643 -3.7012479 -0.76 174.63
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.4809535 -3.7073977 -0.08 167.91
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -38.4808484 -3.6913766 -0.47 22.79
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -38.4822658 -3.6989066 -2.67 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -38.460539 -3.7052805 -3.02 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac -38.4858209 -3.7144989 -0.12 191.22
