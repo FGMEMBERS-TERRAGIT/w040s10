@@ -1,2 +1,3 @@
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -35.7322159 -9.7003134 -0.88 208.3
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml -35.7266558 -9.678911 -0.02 289.65
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -35.6923648 -9.6657307 -2.41 0

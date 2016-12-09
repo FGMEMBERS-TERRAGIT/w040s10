@@ -7,4 +7,7 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -35.2068455 -5.769659 -0.01 8.38
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -35.2054991 -5.7598359 1 356.55
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -35.2003413 -5.7536777 0 203.94
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -35.1956743 -5.7500107 -0.26 352.45
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -35.1969154 -5.7504332 -2.57 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -35.1946113 -5.7514037 -2.67 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -35.185296 -5.7951396 41.1 0
 OBJECT_STATIC Lighthouse_MaeLuiza.xml -35.1853 -5.7952 44.7 260
